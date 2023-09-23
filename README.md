@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bikas Upadhaya</h1>
+<h1 align="center">Hi 👋, I'm Bikash Upadhaya</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 💬 Ask me about **react.js, mongodb**
